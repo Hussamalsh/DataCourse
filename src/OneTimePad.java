@@ -22,7 +22,7 @@ public class OneTimePad
 			for(int j =0; j<temp.length; j++)
 				if(Character.isUpperCase(temp[j]))
 				{
-					noUC[r++]= temp[j];
+					noUC[r++]=temp[j];
 				}
 			
 		}
